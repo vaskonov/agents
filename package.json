@@ -1,0 +1,17 @@
+{
+  "name": "agents",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "async": "*",
+    "azure": "*",
+    "json-ref": "*",
+    "nconf": "*",
+    "socket.io-client": "*",
+    "xml2js": "*",
+    "underscore": "*"
+  }
+}
